@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4825'
     url: http://www.gutenberg.org/2009/agents/4825
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27670#The-Treason-and-Death-of-Benedict-ArnoldA-Play-for-a-Greek-Theatre
 gutenberg_issued: '2008-12-31'
 gutenberg_type: Text
 identifiers:
